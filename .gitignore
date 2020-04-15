@@ -1,0 +1,9 @@
+/build/
+/.idea/
+/out/
+/test/
+/src/.idea/
+/task.iml
+/src/task.iml
+/src/flashcards/flashcards.iml
+/src/flashcards/.idea/
